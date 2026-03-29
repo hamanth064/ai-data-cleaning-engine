@@ -12,17 +12,16 @@ An autonomous, AI-powered data cleaning and exploratory data analysis (EDA) tool
 
 ## 📸 Screenshots
 
-````carousel
-![Landing Page](screenshots/landing.png)
-<!-- slide -->
-![Messy Data Detection](screenshots/profiling_messy.png)
-<!-- slide -->
-![Auto-Fixed Data Preview](screenshots/profiling_fixed.png)
-<!-- slide -->
-![Agentic Cleaning Loop](screenshots/cleaning_agent.png)
-<!-- slide -->
+| Landing Page | Data Profiling |
+|---|---|
+| ![Landing Page](screenshots/landing.png) | ![Messy Data Detection](screenshots/profiling_messy.png) |
+
+| Auto-Fix Preview | Agentic Cleaning |
+|---|---|
+| ![Auto-Fixed Data Preview](screenshots/profiling_fixed.png) | ![Agentic Cleaning Loop](screenshots/cleaning_agent.png) |
+
+### AI Analysis & Health Score
 ![AI Analysis & Health Score](screenshots/insights.png)
-````
 
 ---
 
