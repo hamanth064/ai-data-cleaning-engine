@@ -6,6 +6,24 @@ An autonomous, AI-powered data cleaning and exploratory data analysis (EDA) tool
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?style=flat-square&logo=streamlit)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-AI_Agent-4285F4?style=flat-square&logo=google)
 
+🚀 Full data pipeline in one tool.
+
+---
+
+## 📸 Screenshots
+
+````carousel
+![Landing Page](screenshots/landing.png)
+<!-- slide -->
+![Messy Data Detection](screenshots/profiling_messy.png)
+<!-- slide -->
+![Auto-Fixed Data Preview](screenshots/profiling_fixed.png)
+<!-- slide -->
+![Agentic Cleaning Loop](screenshots/cleaning_agent.png)
+<!-- slide -->
+![AI Analysis & Health Score](screenshots/insights.png)
+````
+
 ---
 
 ## ✨ Features
