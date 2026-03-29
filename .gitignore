@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Local reports
+reports/*.html
+!reports/.gitkeep
+
+# SQLite database
+*.db
+*.sqlite
+
+# IDE settings
+.vscode/
+.idea/
+.gemini/
+
+# OS files
+.DS_Store
+Thumbs.db
