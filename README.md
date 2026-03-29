@@ -20,8 +20,16 @@ An autonomous, AI-powered data cleaning and exploratory data analysis (EDA) tool
 |---|---|
 | ![Auto-Fixed Data Preview](screenshots/profiling_fixed.png) | ![Agentic Cleaning Loop](screenshots/cleaning_agent.png) |
 
-### AI Analysis & Health Score
-![AI Analysis & Health Score](screenshots/insights.png)
+| SQL Query Library | SQL Custom Results |
+|---|---|
+| ![SQL Library](screenshots/sql_library.png) | ![SQL Results](screenshots/sql_results.png) |
+
+| EDA & Downloads | Insights & Analysis |
+|---|---|
+| ![EDA Downloads](screenshots/eda_downloads.png) | ![Insights](screenshots/insights.png) |
+
+### EDA Visualizations
+![EDA Plots](screenshots/eda_plots.png)
 
 ---
 
