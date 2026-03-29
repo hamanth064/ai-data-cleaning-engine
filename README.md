@@ -111,11 +111,6 @@ Upload CSV/Excel → Data Profiling → AI Agent Cleans Data → Insight Engine
 - **Reporting:** Jinja2 HTML templates
 
 ---
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 ## 🤝 Contributing
